@@ -7,6 +7,9 @@
 <!-- Drizzle -->
 <img src="https://img.shields.io/badge/Drizzle-000000?style=for-the-badge&logo=drizzle&logoColor=C5F74F">
 
+<!-- Better Auth -->
+<img src="https://img.shields.io/badge/Better Auth-FFFFFF?style=for-the-badge&logo=drizzle&logoColor=000000">
+
 <!-- Express -->
 <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
 
