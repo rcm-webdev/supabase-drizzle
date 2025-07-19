@@ -4,6 +4,7 @@ import cors from 'cors';
 import dotenv from 'dotenv';
 import signsRouter from './routes/signs';
 
+
 // load environment variables
 dotenv.config({path: "./config/.env"});
 
