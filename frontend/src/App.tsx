@@ -3,7 +3,7 @@ import Home from './pages/Home'
 
 const App = () => {
     return (
-        <div data-theme="bumblebee">
+        <div data-theme="bumblebee" className="w-full h-screen">
             <Routes>
                 <Route path="/" element={<Home />} />
             </Routes>
